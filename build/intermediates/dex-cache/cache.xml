@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/seven/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_762565faf8d858bc5387d8119ed7ca1e347deb19.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/367db1f4ec20d4df1d529b32949fd11817253c2a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6279299546317cf1392f9f1c443bc21f4ffcf985/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/367db1f4ec20d4df1d529b32949fd11817253c2a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_6279299546317cf1392f9f1c443bc21f4ffcf985.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_762565faf8d858bc5387d8119ed7ca1e347deb19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/48125a9086dcf7986e19b5ea9ff20ea99d1b084f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60c570688466235568527cfa99ea50a90c0b1d89/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/48125a9086dcf7986e19b5ea9ff20ea99d1b084f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_60c570688466235568527cfa99ea50a90c0b1d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/b2a875fac50a8d8180595051bff1ab2e8103757d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_6de14ef76d3cd13f2114af2b3c7629062e2e3a15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/4f9d6d43ae2974b51097bab9cd066319b33a8ef2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_16d87f0cf17d61fd858d600a399153f20b0a0034.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/7aafaf05bca5bc20818e246ed16bbf83f5a0bea8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07eb76978e94629a41cd0de5c4d1c66183f76b45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/b2a875fac50a8d8180595051bff1ab2e8103757d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6de14ef76d3cd13f2114af2b3c7629062e2e3a15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/4f9d6d43ae2974b51097bab9cd066319b33a8ef2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16d87f0cf17d61fd858d600a399153f20b0a0034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/c552881efd6e2284b6e4e6a91bc32997223badc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_755afb74f51416d9ed56c50fb58d2d126702875d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/c552881efd6e2284b6e4e6a91bc32997223badc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_755afb74f51416d9ed56c50fb58d2d126702875d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/dada3c67b0fb2879dc6f6e7ec1e9145511f7a64d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8aec45f270e2dad061ae6cd0a88d3daea74bb121/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/7aafaf05bca5bc20818e246ed16bbf83f5a0bea8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_07eb76978e94629a41cd0de5c4d1c66183f76b45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/dada3c67b0fb2879dc6f6e7ec1e9145511f7a64d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_8aec45f270e2dad061ae6cd0a88d3daea74bb121.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_341ceb749dd2de8edf0da2c7eb65fab21f7a016c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_341ceb749dd2de8edf0da2c7eb65fab21f7a016c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4fc59d685a84fc0dcc7b5ce8f2839fa73fec48ee">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1a752aa9cd1669b7322c4f31c645089b239baae7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/22163e96759d89e1c9da647dcfedeb2f4f21f31c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_d7b5a00fdc7b5f3f6bc7e765541b6bf53f71d4d8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/22163e96759d89e1c9da647dcfedeb2f4f21f31c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7b5a00fdc7b5f3f6bc7e765541b6bf53f71d4d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/.android/build-cache/32aebc06f803ef7f0beec4b40a2ee76c13823808/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1af6739321b4fc27726eeffd6090d0bb71c3ffeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/.android/build-cache/32aebc06f803ef7f0beec4b40a2ee76c13823808/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/classes_1af6739321b4fc27726eeffd6090d0bb71c3ffeb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_9824670bcf380dd91309d1a92ed7c126b739eb3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5aa2e5fb6df5f109b9fe741a8fc2eb480adb1f37/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seven/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_9824670bcf380dd91309d1a92ed7c126b739eb3f.jar" />
+    </item>
+
+</items>

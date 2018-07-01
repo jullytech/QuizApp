@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/seven/Desktop/QuizApp-20180630T085346Z-001/QuizApp/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/home/seven/.android/build-cache/0b73a517a670cb5ae1dcbce8263de054f1ab4bc8/output/res/anim/abc_popup_enter.xml"
+    }
+]
